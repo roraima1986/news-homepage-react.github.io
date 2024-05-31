@@ -26,7 +26,7 @@ function App() {
             <div className="logo__container">
               <a href="#" className="logo__link">
                 <img
-                  src="./src/assets/images/logo.svg"
+                  src="./assets/images/logo.svg"
                   className="logo__img"
                   alt="Logo W."
                 />
