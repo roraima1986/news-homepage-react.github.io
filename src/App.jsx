@@ -70,7 +70,7 @@ function App() {
             >
               <img
                 className="icon__menu"
-                src="./src/assets/images/icon-menu.svg"
+                src="./assets/images/icon-menu.svg"
                 alt="Icon Menu"
               />
             </button>
@@ -103,7 +103,7 @@ function App() {
             >
               <img
                 className="icon__menu__close"
-                src="./src/assets/images/icon-menu-close.svg"
+                src="./assets/images/icon-menu-close.svg"
                 alt="Icon Menu Close"
               />
             </button>
