@@ -4,11 +4,11 @@ export const ContentPrincipal = () => {
       {/*Imagen Principal*/}
       <picture className="principal__img-container">
         <source
-          srcSet="./src/assets/images/image-web-3-mobile.jpg"
+          srcSet="./assets/images/image-web-3-mobile.jpg"
           media="(max-width: 600px)"
         />
         <img
-          src="./src/assets/images/image-web-3-desktop.jpg"
+          src="./assets/images/image-web-3-desktop.jpg"
           className="principal__img"
           alt="Image Web 3"
         />
